@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8be38740-58d2-412c-a629-8b6955f46d8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DyeDataProcess" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xgmk2TAu8eAQSFLW2CaGHfUAOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HeJunjie\OneDrive - mail.dhu.edu.cn\Coding\PycharmProjects\DyeDataProcess" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_process">
+    <configuration name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DyeDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataframe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DyeDataProcess" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataframe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_process" />
+        <item itemvalue="Python.dataframe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be38740-58d2-412c-a629-8b6955f46d8f" name="Default Changelist" comment="" />
+      <created>1581476251925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581476251925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1598" height="440" key="DebuggerActiveHint" timestamp="1581564059538">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1598" height="440" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1581564059538" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582442726466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582442726466" />
+    <state width="1579" height="230" key="GridCell.Tab.0.bottom" timestamp="1587530808268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587530808268" />
+    <state width="1899" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="230" key="GridCell.Tab.0.center" timestamp="1587530808268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587530808268" />
+    <state width="1899" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="230" key="GridCell.Tab.0.left" timestamp="1587530808268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587530808268" />
+    <state width="1899" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="230" key="GridCell.Tab.0.right" timestamp="1587530808268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587530808268" />
+    <state width="1899" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="316" key="GridCell.Tab.1.bottom" timestamp="1586773010687">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="316" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586773010687" />
+    <state width="1899" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="316" key="GridCell.Tab.1.center" timestamp="1586773010687">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="316" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586773010687" />
+    <state width="1899" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="316" key="GridCell.Tab.1.left" timestamp="1586773010687">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="316" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586773010687" />
+    <state width="1899" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state width="1579" height="316" key="GridCell.Tab.1.right" timestamp="1586773010687">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="316" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586773010687" />
+    <state width="1899" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582442614274" />
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587457701283">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587457701283" />
+    <state x="576" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582442721517" />
+    <state x="465" y="170" key="search.everywhere.popup" timestamp="1581476536049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="170" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1581476536049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_process.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
